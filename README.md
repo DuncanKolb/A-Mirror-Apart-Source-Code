@@ -25,3 +25,5 @@ The game was built in Unity and coded in C# using Visual Studio. The full projec
 
 **Demo**
 A playable demo of A Mirror Apart is available on Steam.
+https://store.steampowered.com/app/5274840/A_Mirror_Apart/
+
